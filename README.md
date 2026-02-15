@@ -6,7 +6,7 @@ mcToolbox is a network diagnostics toolkit for iOS.
 
 For questions, bug reports, or feature requests:
 - Open an issue on this repository
-- Email: senin-gercek-mailin@gmail.com
+- Email: mecagirkan@gmail.com
 
 ## Privacy Policy
 
